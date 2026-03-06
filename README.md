@@ -6,7 +6,7 @@
 
 ## Repository Information
 
-- **GitHub Repository URL**: *(Add your repo URL after pushing)*
+- **GitHub Repository URL**: *https://github.com/Aicha447-web/Study-Mate-2026*
 - **Instructor Collaborator**: abenaprimo *(add as collaborator in Settings → Collaborators)*
 - **Team Members**: @0169-ui
 
