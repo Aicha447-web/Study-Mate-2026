@@ -33,7 +33,8 @@ Study Mate helps students find study partners based on shared courses and academ
 
 ```
 Study mate 2026/
-├── Documentation/           # SRS, Gantt chart (add your PDFs)
+├── Documentation/   [C4B85621-D1C1-48EC-A1AA-D10E06B1942C.pdf](https://github.com/user-attachments/files/25805967/C4B85621-D1C1-48EC-A1AA-D10E06B1942C.pdf)
+        
 │   └── README.md
 ├── SourceCode/             # Source code structure documentation
 │   └── README.md
