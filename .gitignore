@@ -1,0 +1,9 @@
+node_modules/
+study_mate.db
+.env
+*.env
+supabase-config.js
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
