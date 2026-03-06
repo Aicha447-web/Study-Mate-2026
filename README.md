@@ -8,7 +8,6 @@
 
 - **GitHub Repository URL**: *https://github.com/Aicha447-web/Study-Mate-2026*
 - **Instructor Collaborator**: abenaprimo *(add as collaborator in Settings → Collaborators)*
-- **Team Members**: @0169-ui
 
 ---
 
@@ -94,8 +93,8 @@ For full instructions, see [Deployment_Setup/INSTALL.md](Deployment_Setup/INSTAL
 ## Technical Stack
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Supabase (PostgreSQL + Auth) or Node.js (Express + SQLite) or Python (Flask + SQLite)
-- **Auth**: Supabase Auth or JWT
+- **Backend**: Supabase (PostgreSQL + Auth), Python (Flask + SQLite)
+- **Auth**: Supabase Auth 
 
 ---
 
